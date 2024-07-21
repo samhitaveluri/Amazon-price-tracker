@@ -9,9 +9,9 @@ This is a chrome extension that notifies the user by sending an email when the p
 
 # What I used in this project ?
 
-- Sendgrid : for sending email
-- Nightmare : for finding the price id in amazon website
-- Firebase : for user authentication
+- Postmark : for sending email
+- Nightmare : for finding the price id in amazon website (modified the use of puppeteer)
+ 
 
 # What login/signup info is required ?
 
